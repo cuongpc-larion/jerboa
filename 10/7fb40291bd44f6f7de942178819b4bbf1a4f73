@@ -1,0 +1,19 @@
+.github/workflows/notify-google-chat.yml
+  s_931c3e0df07f9a::t_9ff4df5b12f0a1 1-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "107fb40291bd44f6f7de942178819b4bbf1a4f73",
+  "prompts": {},
+  "sessions": {
+    "s_931c3e0df07f9a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_931c3e0df07f9a",
+        "model": "unknown"
+      },
+      "human_author": "Cuong Pham-Cong <cuongpc@larion.com>"
+    }
+  }
+}
